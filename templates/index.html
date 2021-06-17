@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+<h1>We are Here!!!</h1>
+
+<form action="find" method="POST">
+
+    {% csrf_token %}
+
+    Drop in the mail: <input type="text", name="mail"><br>
+
+    <input type="submit">
+</form>
+
+{% endblock %}
