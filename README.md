@@ -4,4 +4,5 @@
 
 As the project was done as part of myself studying the python Django frame work, the HTML part of the code is bare minimum and just gets the work done.
 Deployment has also not been done yet.
-Feel free to fork and contribute to the project.
+
+### Feel free to fork and contribute to the project.
